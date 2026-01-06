@@ -115,7 +115,7 @@ function App() {
             {/* Header */}
             <header className="popup-header">
                 <h1>
-                    <span className="logo">🎯</span>
+                    <span className="logo">📝</span>
                     FormQ
                 </h1>
                 <button className="settings-btn" onClick={openOptions} title="Settings">

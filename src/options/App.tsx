@@ -59,7 +59,7 @@ function App() {
             {/* Sidebar */}
             <aside className="sidebar">
                 <div className="sidebar-header">
-                    <span className="sidebar-logo">🎯</span>
+                    <span className="sidebar-logo">📝</span>
                     <span className="sidebar-title">FormQ</span>
                 </div>
 
@@ -570,7 +570,7 @@ function AboutPage() {
 
             <div className="card">
                 <h2 className="card-title">Version</h2>
-                <p style={{ color: 'var(--color-text-secondary)' }}>0.1.0 (Phase 1)</p>
+                <p style={{ color: 'var(--color-text-secondary)' }}>0.1.0</p>
             </div>
 
             <div className="card">
